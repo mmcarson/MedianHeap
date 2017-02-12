@@ -1,1 +1,1 @@
-# MinMaxHeap
+# MedianHeap
